@@ -1,14 +1,15 @@
-#VBA scripting to analyze generated stock market data
-Created VBA script that loops through all the stocks for one year and outputs the following information 
-The ticker symbol
-Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
-The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
-The total stock volume of the stock.
-Added functionality to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
-Made the appropriate adjustments to VBA script to enable it to run on every worksheet (that is, every year) at once. (for year 2020, year 2019 and year 2018)
+#VBA scripting to analyze generated stock market data#
+
+Created VBA script that loops through all the stocks for one year and outputs the following information,
+the ticker symbol,
+yearly change from the opening price at the beginning of a given year to the closing price at the end of that year,
+the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year,
+the total stock volume of the stock,
+added functionality to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume",
+made the appropriate adjustments to VBA script to enable it to run on every worksheet (that is, every year) at once (for year 2020, year 2019 and year 2018),
 used conditional formatting that will highlight positive change in green and negative change in red by VBA script.
 
-Screenshots of work, VBA script file is attached with this Repository.
+Screenshots of work and VBA script are attached with this Repository.
 
 #Final Statement for Provided Data
 Based on the given data analysis for the years 2018, 2019, and 2020, the following conclusions can be drawn:
