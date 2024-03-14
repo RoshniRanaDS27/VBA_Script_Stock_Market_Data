@@ -1,4 +1,4 @@
-# VBA scripting to analyze generated stock market data#
+# VBA scripting to analyze generated stock market data
 
 Created VBA script that loops through all the stocks for one year and outputs the following information,
 the ticker symbol,
