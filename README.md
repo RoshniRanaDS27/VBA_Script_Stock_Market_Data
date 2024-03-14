@@ -9,7 +9,7 @@ added functionality to the script to return the stock with the "Greatest % incre
 made the appropriate adjustments to VBA script to enable it to run on every worksheet (that is, every year) at once (for year 2020, year 2019 and year 2018),
 used conditional formatting that will highlight positive change in green and negative change in red by VBA script.
 
-Screenshots of work and VBA script are attached with this Repository.
+# Screenshots of work, VBA script and statement file are attached with this Repository.
 
 # Final Statement for Provided Data
 Based on the given data analysis for the years 2018, 2019, and 2020, the following conclusions can be drawn:
