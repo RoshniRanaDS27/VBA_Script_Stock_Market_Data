@@ -7,7 +7,7 @@ the percentage change from the opening price at the beginning of a given year to
 the total stock volume of the stock,
 added functionality to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume",
 
-# made the appropriate adjustments to VBA script to enable it to run on every worksheet (that is, every year) at once (for year 2020, year 2019 and year 2018),
+made the appropriate adjustments to VBA script to enable it to run on every worksheet (that is, every year) at once (for year 2020, year 2019 and year 2018),
 used conditional formatting that will highlight positive change in green and negative change in red by VBA script.
 
 # Screenshots of work, VBA script and statement file are attached with this Repository.
