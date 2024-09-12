@@ -1,4 +1,4 @@
-# `VBA scripting` 
+# `VBA scripting` - Excel
 ![image](https://github.com/RoshniRanaDS/VBA_Script_Stock_Market_Data/assets/161755928/63e37a8d-af2f-42d9-bac5-8ff1069e3c27)
 
 # VBA to Analyze generated stock market data
